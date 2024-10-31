@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **Web Designing Technologies**
+- 🌱 I’m currently learning **Web Designing Technologies & ML**
 
 - 👯 I’m looking to collaborate on **Web Development And Designing**
 
