@@ -1,7 +1,8 @@
 
 <h2 align="center">
-  <img align="right" width="100%" alt="coding" src="https://github.com/AbhijitMotekar99/AbhijitMotekar99/blob/main/Github_profile_banner.gif">
+  <img align="right" width="100%" height="250px" alt="coding" src="https://github.com/AbhijitMotekar99/AbhijitMotekar99/blob/main/Github_profile_banner.gif">
 </h2>
+
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Abhijit Motekar 😄</h2>
 <h4 align="center" style="font-family: 'Poppins', sans-serif;">A Final Year Student pursuing BTech Computer Engineering at Pimpri Chinchwad Collage of Engineering, Pune</h4>
 <br><br>
