@@ -69,6 +69,10 @@
 
 <br><br>
 
+![An image of AbhijitMotekar99's Girls Script Summer of Code full profile](GSSoC24_Stats.png)
+
+<br><br>
+
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BAbhijitMotekar9910%7D/count.svg" alt="visitor badge"/></p>
 <br>
